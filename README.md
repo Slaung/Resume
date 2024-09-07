@@ -4,7 +4,7 @@
 - 學歷：[國立勤益科技大學/資訊工程系碩士班](https://csie.ncut.edu.tw/)
 - 信箱：r7753pro25@gmail.com
 - 地點：台中市
-- 熟悉技能：#FPGA  #Verilog  #Vivado  #ROS  #MAVROS  #Mavlink  #Ardupilot  #PX4  #Gazebo  #rospy  #python  #java  #C  #C++  #C#
+- 熟悉技能：FPGA, Verilog, Vivado, ROS, MAVROS, Mavlink, Ardupilot, PX4, Gazebo, rospy, python, java, C, C++, C#
 
 ## 專業技能
 1. 熟悉 Vivado 開發技能
