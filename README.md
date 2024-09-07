@@ -8,7 +8,7 @@
 
 ## 專業技能
 1. 熟悉 Vivado 開發技能
-- **Verilog 演算法設計與優化：**使用 Verilog 設計演算法並封裝為 IP，透過Pipelining、Parallelism、Loop unrolling 提升電路計算效能。
+- **Verilog 演算法設計與優化：** 使用 Verilog 設計演算法並封裝為 IP，透過Pipelining、Parallelism、Loop unrolling 提升電路計算效能。
 - 使用 Simulation: 將所設計IP進行邏輯驗證、模擬時序以及邊界值測試等模擬。
 - 設計 AXI介面並導入所設計之演算法IP，使PS端與PL端進行數據通信。
 - 透過 Block Design 完成數據流以及控制信號。
