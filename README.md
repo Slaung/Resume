@@ -7,13 +7,17 @@
 - 熟悉技能：#FPGA  #Verilog  #Vivado  #ROS  #MAVROS  #Mavlink  #Ardupilot  #PX4  #Gazebo  #rospy  #python  #java  #C/C++/C#
 
 ## 專業技能
-1. 熟悉 Vivado 電路設計
-- 使用 Verilog 進行演算法編寫，並設計成IP，以及透過 Pipelining、Parallelism、Loop unrolling 以提高電路計算效率。
+1. 熟悉 Vivado 開發技能
+- **Verilog 演算法設計與優化：**使用 Verilog 設計演算法並封裝為 IP，透過Pipelining、Parallelism、Loop unrolling 提升電路計算效能。
 - 使用 Simulation: 將所設計IP進行邏輯驗證、模擬時序以及邊界值測試等模擬。
-- 設計 AXI總線並導入所設計之演算法IP，使PS端與PL端進行數據通信。
+- 設計 AXI介面並導入所設計之演算法IP，使PS端與PL端進行數據通信。
 - 透過 Block Design 完成數據流以及控制信號。
 - 進行 Synthesis 以及 Implementation。
-- 生成 Bitstream並配置到FPGA開發版上，透過Vitis工具對Bitstream進行燒入。
+- 生成 Bitstream並配置到FPGA開發版上。
+
+2. 熟悉 Vitis 開發技能
+- 熟悉 Vitis Unified Software Platform 進行軟硬協同開發。
+- 透過 Vitis 工具對Bitstream進行燒入。
 - 撰寫 C++ 程式，以設計PL端之輸入與輸出資料，並進一步驗證以及優化。
 - 性能優化: 依資源使用情況，調整硬體設計來減少計算量或提高吞吐量，包含DSP、LUT與BRAM等。
 
