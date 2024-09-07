@@ -6,7 +6,7 @@
 - 地點：台中市
 - 熟悉技能：FPGA, Verilog, Vivado, ROS, MAVROS, Mavlink, Ardupilot, PX4, Gazebo, rospy, python, java, C, C++, C#
 
-## 自我介紹
+## 自傳
 - todo...
 - todo...
 
