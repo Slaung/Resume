@@ -47,3 +47,5 @@
 - 使用多執行緒與同步機制優化資料傳遞與派車動作，提升系統效能與穩定性。
 
 ## 作品集
+1. Convoultion fuzzy neural network for blood predictor implements FPGA
+2. UAV tracking and land controller
