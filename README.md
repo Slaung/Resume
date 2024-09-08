@@ -87,6 +87,10 @@
 2. UAV tracking and land controller
 3. UAV autonomous navigation
 
+## 大學專題 2021/08
+- 專題題目：語音報案系統(用連結到github)
+- DM影片連結：[https://youtu.be/De4B7P5cHNE](https://youtu.be/De4B7P5cHNE)
+
 ## 碩士論文 2024/07
 - 論文題目：基於視覺偵測之模糊PID控制系統於無人機自主追蹤與降落任務(Vision-based Fuzzy PID Control Systems for Tracking and Landing of Autonomous UAV)
 - 論文連結：[https://hdl.handle.net/11296/2596r4](https://hdl.handle.net/11296/2596r4)
