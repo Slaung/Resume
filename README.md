@@ -71,6 +71,11 @@
 - 設計系統任務自動派遣與回報機制，確保消防局快速收到報案信息並做出應對。
 - 使用多執行緒與同步機制優化資料傳遞與派車動作，提升系統效能與穩定性。
 
+## 證照
+- todo..
+- todo..
+- todo..
+
 ## 作品集
 1. Convoultion fuzzy neural network for blood predictor implements FPGA
 2. UAV tracking and land controller
@@ -78,5 +83,5 @@
 
 ## 碩士論文 2024/07
 - 論文題目：基於視覺偵測之模糊PID控制系統於無人機自主追蹤與降落任務(Vision-based Fuzzy PID Control Systems for Tracking and Landing of Autonomous UAV)
-- 連結：[https://hdl.handle.net/11296/2596r4](https://hdl.handle.net/11296/2596r4)
+- 論文連結：[https://hdl.handle.net/11296/2596r4](https://hdl.handle.net/11296/2596r4)
 - DM影片連結：[https://youtu.be/zwSrO8xwgmo](https://youtu.be/zwSrO8xwgmo)
