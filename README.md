@@ -79,3 +79,4 @@
 ## 碩士論文 2024/07
 - 論文題目：基於視覺偵測之模糊PID控制系統於無人機自主追蹤與降落任務(Vision-based Fuzzy PID Control Systems for Tracking and Landing of Autonomous UAV)
 - 連結：[https://hdl.handle.net/11296/2596r4](https://hdl.handle.net/11296/2596r4)
+- DM影片連結：[https://youtu.be/zwSrO8xwgmo](https://youtu.be/zwSrO8xwgmo)
