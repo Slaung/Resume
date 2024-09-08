@@ -83,9 +83,11 @@
 - 106年飆程式網高中職電腦程式設計線上解題活動 團體組 銅牌獎 (2017/10)
 
 ## 作品集
-1. Convoultion fuzzy neural network for blood predictor implements FPGA
-2. UAV tracking and land controller
-3. UAV autonomous navigation
+1. 使用 卷積模糊神經網路 對 ECG 與 PPG 信號進行血壓預測。
+2. 將血壓預測之卷積模糊神經網路，實現於FPGA進行加速運算。
+3. 無人機即時追隨地面目標之定點導航控制。
+4. 無人機自動降落於ArUco marker標記。
+5. 無人機自主追蹤並降落在移動的無人地面載具上。
 
 ## 大學專題 2021/08
 - 專題題目：語音報案系統(用連結到github)
