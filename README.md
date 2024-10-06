@@ -84,7 +84,7 @@
 
 ## 作品集
 1. [使用 卷積模糊神經網路 對 ECG 與 PPG 信號進行血壓預測。](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP)
-2. 基於血壓預測之卷積模糊神經網路，實現於FPGA進行加速運算。
+2. [基於血壓預測之卷積模糊神經網路，實現於FPGA進行加速運算。](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA)
 3. 無人機即時追隨地面目標之定點導航控制。
 4. 無人機自動降落於ArUco marker標記。
 5. 無人機自主追蹤並降落在移動的無人地面載具上。
